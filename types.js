@@ -1,0 +1,12 @@
+var number = 7;
+var isOk = true;
+var obj = {};
+var names = ["Mustafa", "muhammad", 'Ali'];
+var ages = [32, 32, 31, 30];
+var firstName = names[0];
+var firstAge = ages[1];
+var wow;
+var cow;
+var master = undefined;
+var mow = null;
+var loop = null;
